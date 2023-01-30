@@ -1,0 +1,2 @@
+class Muie(Exception):
+    pass

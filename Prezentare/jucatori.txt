@@ -1,0 +1,9 @@
+Messi,George,69,Fundas
+Ronaldo,Ronaldinio,1,Pivot
+Stanciu,Nustiu,100,Extrema
+Ger,da,23,Pivot
+Ger,da,23,Extrema
+das,wea,12,Extrema
+dasd,weww,1,Fundas
+Alex,Alvarez,19,Fundas
+Marcel,Gheorgheni,43,Extrema
